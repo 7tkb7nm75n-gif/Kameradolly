@@ -1,0 +1,13 @@
+# Betriebssystemdateien
+.DS_Store
+Thumbs.db
+
+# Temporäre Dateien
+*.tmp
+*.bak
+~$*
+
+# Lokale CAD-Sicherungen
+*.FCStd1
+
+# CAD-Quellen, STEP, STL und 3MF bewusst versionierbar lassen.
